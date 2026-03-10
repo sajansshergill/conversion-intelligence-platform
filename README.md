@@ -1,2 +1,1 @@
-# conversion-intelligence-platform
-Customer Conversation Intelligence Platform
+# Customer Conversation Intelligence Platform
